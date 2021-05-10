@@ -21,11 +21,11 @@ console.log(palla);
 var triangoloRettangolo = {
     base : 10,
     altezza :20,
-    Perimetro :"",
+    area :"",
     
 }
 
-triangoloRettangolo.perimetro=[triangoloRettangolo.base*triangoloRettangolo.altezza /2]
+triangoloRettangolo.area=[triangoloRettangolo.base*triangoloRettangolo.altezza /2]
 console.log(triangoloRettangolo);
 
 
