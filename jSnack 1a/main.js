@@ -7,10 +7,12 @@ peso : "10 kg"
 
 //------------------------------------------------------------------------------------
 
-// palla["prezzo"] = 70;
-// console.log(palla.prezzo);
-var nuovoPeso =prompt("aggiungi peso alla palla")
+//snack 2 tramite un prompt aggiungi peso alla palla
+var nuovoPeso =Number(prompt("aggiungi peso alla palla"))
 
-palla ["peso"]= nuovoPeso
+palla ["peso"]= nuovoPeso + " kg"
 
 console.log(palla);
+
+//------------------------------------------------------------------------------------
+
