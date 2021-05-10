@@ -16,3 +16,16 @@ console.log(palla);
 
 //------------------------------------------------------------------------------------
 
+//snack 3  
+
+var triangoloRettangolo = {
+    base : 10,
+    altezza :20,
+    Perimetro :"",
+    
+}
+
+triangoloRettangolo.perimetro=[triangoloRettangolo.base*triangoloRettangolo.altezza /2]
+console.log(triangoloRettangolo);
+
+
